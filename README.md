@@ -9,6 +9,6 @@
 
 通常在周末更新，其余时间都在~~坐牢~~上学
 
-![BBDD预览图](https://i0.hdslb.com/bfs/new_dyn/70b3477e494b1e3c2f29aba79d921f3f5680432.jpg)
+![BBDD预览图](https://i0.hdslb.com/bfs/new_dyn/0f43dc36b11698ba2b9dc08c6d1a9bbd5680432.png)
 
 (此版本为2026年3月17日自用版本截图，可能与当前版本界面有不同)
