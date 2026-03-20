@@ -9,6 +9,12 @@
 
 通常在周末更新，其余时间都在~~坐牢~~上学
 
-![BBDD预览图](http://i0.hdslb.com/bfs/new_dyn/597e639468f97bfa67f59df97e734fa35680432.png)
+一切优先更新都是我需要的，收藏视频查看观看直播那些的我都不用的所以现在还没做，以后看看有时间了再做
 
-(此版本为2026年3月17日自用版本截图，可能与当前版本界面有不同)
+![BBDD预览图](http://i0.hdslb.com/bfs/new_dyn/dbc63e9f8cd34f4f08ac5babdac2c70e5680432.png)
+
+![BBDD预览图](http://i0.hdslb.com/bfs/new_dyn/45f6a3ea01f04756c9b4b2a715403ed55680432.png)
+
+![BBDD预览图](http://i0.hdslb.com/bfs/new_dyn/26464fead9d4c90df5fac9ee8fd130985680432.png)
+
+(此版本为2026年3月20日版本截图，可能与当前版本界面有不同)
