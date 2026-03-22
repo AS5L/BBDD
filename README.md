@@ -15,6 +15,6 @@
 
 ![BBDD预览图](http://i0.hdslb.com/bfs/new_dyn/45f6a3ea01f04756c9b4b2a715403ed55680432.png)
 
-![BBDD预览图](http://i0.hdslb.com/bfs/new_dyn/26464fead9d4c90df5fac9ee8fd130985680432.png)
+![BBDD预览图](http://i0.hdslb.com/bfs/new_dyn/2b1c5d2d0b360b3ce3a2441b362bba625680432.png)
 
-(此版本为2026年3月20日版本截图，可能与当前版本界面有不同)
+(此版本为2026年3月22日版本截图，可能与当前版本界面有不同)
